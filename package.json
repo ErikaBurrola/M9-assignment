@@ -1,0 +1,16 @@
+{
+  "name": "assignment9",
+  "version": "1.0.0",
+  "description": "Employees with load Json",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app"
+  },
+  "author": "Erika Burrola",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "uuid": "^11.0.3"
+  }
+}

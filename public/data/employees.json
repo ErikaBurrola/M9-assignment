@@ -1,0 +1,45 @@
+{ "employees":
+ [
+  {
+   "id":"01",
+   "name":"Alejandro Lopez",
+   "ext":"123",
+   "email":"alelopez@hotmail.com",
+   "department":"Administrative Assistant"
+  },
+  { 
+    "id":"02",
+    "name":"Erika Burrola",
+    "ext":"231",
+    "email":"erikanurrola@hotmail.com",
+    "department":"Engenering"
+ 
+   },
+   {    
+    "id":"03",
+    "name":"Demian Lopez",
+    "ext":"321",
+    "email":"demianlopez@hotmail.com",
+    "department":"Software Engineer"
+ 
+   },
+   {     
+    "id":"04",
+    "name":"Dara Lopez",
+    "ext":"123",
+    "email":"daralopez@hotmail.com",
+    "department":"Administrative Assistant"
+ 
+   },
+
+   { 
+    "id":"05",
+    "name":"Maria Reyes",
+    "ext":"213",
+    "email":"mariareyes@hotmail.com",
+    "department":"Quality"
+   }
+
+ ]
+
+}
